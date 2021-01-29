@@ -1,0 +1,1 @@
+{"device":"test","power":"0","cost":"0","state":"0"}
