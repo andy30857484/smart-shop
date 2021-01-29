@@ -1,0 +1,9 @@
+Flask==1.1.1
+firebase_admin
+opencv-python
+workflow
+google-cloud-bigquery
+google-cloud-pubsub
+line-bot-sdk
+pyjwt
+gunicorn==19.7.1
