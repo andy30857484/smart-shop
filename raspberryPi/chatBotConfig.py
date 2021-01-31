@@ -1,0 +1,3 @@
+channel_secret = '06daf99a0a414b49f751f7d419a5502a'
+channel_access_token = 'rmOHXbrsSlnTadU3v8XW7NUrb9sbgc76RqXtLsxgjr1maKSU338UdsxF5Zi/GwoutQj9DXDpFDT6kt1csrMb05fQObY67qKOCxgWcAhefPY6EmBfnSwuBg5nx1+/QGufAmRTxwhqQ4jBHHzGJygxEwdB04t89/1O/w1cDnyilFU='
+lineId = 'U14f83f5638fcace122b58705741e2130'
